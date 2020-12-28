@@ -9,7 +9,15 @@ Front-End: HTML,CSS,JavaScript
 
 Back-End: PHP,MySql
 
-Software Used:WAMP
+Software Used:XAMPP
+
+How to run this project locally
+
+    clone this repo to www folder in WAMP software
+    import the SQL file WAMP.
+    replace database name in sql.php file with your database credentials.
+    open localhost in browser. you see the home page
+
 
 ONLINE EXAMINATION SYSTEM is a web-based examination system where examinations are given online. either through the internet or intranet using computer system. The main goal of this online examination system is to effectively evaluate the student thoroughly through a totally automated system that not only reduce the required time but also obtain fast and accurate results.
 
