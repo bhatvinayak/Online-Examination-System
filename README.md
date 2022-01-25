@@ -1,8 +1,6 @@
 # DBMS-MINI-Project
  DBMS project on topic Online Examination System
 
-link:http://dbproject.cf/
-
 Technology Used:
 
 Front-End: HTML,CSS,JavaScript
